@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <h1>Karoline Setoue</h1>
+</div>
+
+📫 More about me: [ksetoue.github.io](https://ksetoue.github.io/)
+
 
 <!--
 **ksetoue/ksetoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
